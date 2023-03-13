@@ -1,0 +1,22 @@
+{
+  "name": "multicall-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manumonti/multicall-test.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/manumonti/multicall-test/issues"
+  },
+  "homepage": "https://github.com/manumonti/multicall-test#readme",
+  "devDependencies": {
+    "hardhat": "^2.13.0"
+  }
+}
